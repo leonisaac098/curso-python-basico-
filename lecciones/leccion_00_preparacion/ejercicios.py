@@ -17,5 +17,6 @@ def saludar():
         >>> saludar()
         'Hola, datos'
     """
+    
     # Borra la línea de abajo y escribe tu código en su lugar.
-    raise NotImplementedError("Aún no completas la función saludar().")
+    return "Hola, datos"
