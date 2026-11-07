@@ -17,6 +17,6 @@ def saludar():
         >>> saludar()
         'Hola, datos'
     """
-    
+
     # Borra la línea de abajo y escribe tu código en su lugar.
     return "Hola, datos"
