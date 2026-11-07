@@ -17,6 +17,11 @@ def saludar():
         >>> saludar()
         'Hola, datos'
     """
+<<<<<<< HEAD
     
     # Borra la línea de abajo y escribe tu código en su lugar.
     return "Hola, datos"
+=======
+    # Borra la línea de abajo y escribe tu código en su lugar.
+    raise NotImplementedError("Aún no completas la función saludar().")
+>>>>>>> 4696904f67eec61ad691255fc6c0334e336dc6b3
